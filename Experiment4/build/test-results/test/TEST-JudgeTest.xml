@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JudgeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-16T01:45:23" hostname="DESKTOP-B4MG4BK" time="0.045">
+  <properties/>
+  <testcase name="judge(String, String, String)[1]" classname="JudgeTest" time="0.033"/>
+  <testcase name="judge(String, String, String)[2]" classname="JudgeTest" time="0.001"/>
+  <testcase name="judge(String, String, String)[3]" classname="JudgeTest" time="0.001"/>
+  <testcase name="judge(String, String, String)[4]" classname="JudgeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

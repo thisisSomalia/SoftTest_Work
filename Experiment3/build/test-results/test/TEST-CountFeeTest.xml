@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CountFeeTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-04-02T09:23:44" hostname="DESKTOP-B4MG4BK" time="0.084">
+  <properties/>
+  <testcase name="countFee(String, String, String)[1]" classname="CountFeeTest" time="0.057"/>
+  <testcase name="countFee(String, String, String)[2]" classname="CountFeeTest" time="0.002"/>
+  <testcase name="countFee(String, String, String)[3]" classname="CountFeeTest" time="0.003"/>
+  <testcase name="countFee(String, String, String)[4]" classname="CountFeeTest" time="0.002"/>
+  <testcase name="countFee(String, String, String)[5]" classname="CountFeeTest" time="0.002"/>
+  <testcase name="countFee(String, String, String)[6]" classname="CountFeeTest" time="0.001"/>
+  <testcase name="countFee(String, String, String)[7]" classname="CountFeeTest" time="0.002"/>
+  <testcase name="countFee(String, String, String)[8]" classname="CountFeeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
